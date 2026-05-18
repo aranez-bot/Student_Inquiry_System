@@ -1,7 +1,9 @@
  Student Inquiry System
+ 
 A web-based platform that streamlines communication between students, academic departments, and system administrators. Students can submit inquiries directly to departments, departments can respond in real time, and administrators oversee all activity on the platform.
 
  Overview
+ 
 The Student Inquiry System is designed to replace informal or paper-based inquiry processes with a centralized, trackable, and efficient digital solution. It supports three distinct user roles, each with tailored capabilities.
 
  User Roles
@@ -29,9 +31,11 @@ Oversee system-wide settings and configurations
 
 
  Key Features
+ 
 FeatureDescriptionInquiry SubmissionStudents submit inquiries with a subject, message, and target departmentDepartment RoutingInquiries are automatically routed to the selected departmentResponse ThreadDepartments reply within the inquiry thread for full conversation historyStatus TrackingReal-time status updates: Pending → In Progress → ResolvedAdmin DashboardCentralized overview of all inquiries, users, and department activityNotificationsEmail or in-app alerts for new inquiries and responsesInquiry HistoryFull audit trail of all submissions and responses
 
  System Workflow
+ 
 Student submits inquiry
         │
         ▼
